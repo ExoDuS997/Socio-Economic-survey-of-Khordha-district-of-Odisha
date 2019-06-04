@@ -39,14 +39,9 @@ int main()
 	gotoxy(75,36);
 	cout<<"*                    -Developed by-                       *";
 	gotoxy(75,37);
-	cout<<"*                Sweta Swagataika(B516047)                *";
+	cout<<"*                Shakti Prasad Mishra                     *";
 	gotoxy(75,38);
-	cout<<"*                Samikhya Das(B516037)                    *";
-	gotoxy(75,39);
-	cout<<"*                Adarsh Gupta(B516003)                    *";
-	gotoxy(75,40);
-	cout<<"*                Pawan Pandey(B516033)                    *";
-	gotoxy(75,41);
+	cout<<"*                 Tanmay Kumar Bisoi                      *";
 	cout<<"***********************************************************";
 	getch();
 	while(1)
